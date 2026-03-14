@@ -2,6 +2,8 @@
 
 Creates a PHP wrapper script that bootstraps an embedded PHAR archive.
 
+Blog: [tqdev.com/2026-merge-php-projects-single-file](https://www.tqdev.com/2026-merge-php-projects-single-file/)
+
 ## Usage
 
 Generate a standalone PHP launcher from a PHAR:
